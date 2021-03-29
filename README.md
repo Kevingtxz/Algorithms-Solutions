@@ -5,9 +5,10 @@ Solutions for algorithms from Google Contest, LeetCode and HackerRank (majority 
 ## Google Contest Algorithms
 
 Kickstart 2020
-https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49
 
-Retype and Boring Numbers
+Retype: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
+
+Boring Numbers: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
 
 ## HackerRank
 
