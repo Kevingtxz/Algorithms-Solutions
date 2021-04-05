@@ -1,6 +1,6 @@
 # Solutions for Algorithms
 
-Solutions for algorithms from Google Contest, LeetCode and HackerRank (majority in Python)
+Solutions for algorithms from Google Contest and LeetCode (Python)
 
 ## Google Contest Algorithms
 
@@ -10,10 +10,7 @@ Retype: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff
 
 Boring Numbers: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
 
-## HackerRank
-
-0
 
 ## LeetCode
 
-32 solutions for simple and middle level problems
+Two Sum: https://leetcode.com/problems/two-sum/

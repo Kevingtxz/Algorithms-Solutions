@@ -1,2 +1,3 @@
-# Google-Contest-Algorithms
-Algorithsm from Kickstart Google Contest
+# Google-Contest
+
+Algorithms made for Kickstart Google Contest
