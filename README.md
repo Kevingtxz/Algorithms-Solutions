@@ -13,4 +13,8 @@ Boring Numbers: https://codingcompetitions.withgoogle.com/kickstart/round/000000
 
 ## LeetCode
 
-Two Sum: https://leetcode.com/problems/two-sum/
+Easy: 
+    Two Sum: https://leetcode.com/problems/two-sum/
+
+Medium:
+    Subrectangle Queries: https://leetcode.com/problems/subrectangle-queries/
